@@ -65,7 +65,21 @@ In a competitive retail environment, timely and accurate sales analysis is cruci
 ---
 
   ## Final Conclusion:
-To boost sales performance, the business should focus marketing efforts on **top-performing regions (West and Central)** and **high-revenue categories (Beauty, Electronics)**, while addressing weaker markets like the South region. Leveraging **Power Query** for automated data refresh and cleaning ensures the dashboard remains updated with minimal manual work, enabling faster and more accurate decision-making.
+- Focus marketing efforts on top-performing categories like Beauty and Electronics to maximize ROI.
+- Increase promotional offers in South region to boost sales where performance is lowest.
+- Monitor seasonal sales peaks and align inventory planning accordingly.
+- Expand successful city markets such as Ahmedabad and Bangalore with targeted campaigns.
+- Introduce bundle deals for high-demand sub-categories like Mobiles and Laptops to increase average order value.
+
+---
+
+---
+
+## Author & Contact
+**Kamal Nayan Tiwary**  
+Data Analyst  
+📧 Email: kamalnayantiwary73@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/kamal-nayan-tiwary-2022-2026-/)  
 
 
 
