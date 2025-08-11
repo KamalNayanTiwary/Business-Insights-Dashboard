@@ -31,14 +31,16 @@ To design and develop an interactive Excel Sales Dashboard that provides real-ti
 ![Overview](https://github.com/KamalNayanTiwary/Data-Analytics-Excel-Dashboard/blob/main/Overview.png)
 
 ## Project Insights
-- **Total Sales:** ₹27.89M | Profit: ₹6.54M
-- **Sales Channels:** Online (50%) and Offline (50%) share equal contribution.
-- **Top Payment Modes:** Card (26%), UPI (25%), Wallet (25%), COD (24%).
-- **Top Performing Regions:** West (21%), Central/East/North (~20% each).
-- **Best Months for Sales:** March (13.46%), February (13.03%), January (11.66%).
-- **Delivery Status:** Over ₹6.99M delivered, rest split between in-transit, returned, and cancelled orders.
-- **City Trends:** Raipur and Pune lead with highest peaks in sales.
-- **Top Products by Sales:** Curtain, Face Cream, and Jeans (~8% each).
+- **Top Product Category:** Beauty and Electronics drive the highest revenue, making them the key focus for marketing.
+- **Regional Performance:** West region contributes the largest share of total sales (21%), while South records the lowest (19%), indicating untapped potential.
+- **City Analysis:** Ahmedabad and Bangalore emerge as strong markets, with consistent demand across multiple categories.
+- **Monthly Trend:** Specific months show notable sales peaks, likely driven by seasonal demand or promotional campaigns.
+- **Customer Behavior:** Within Electronics, Mobiles and Laptops dominate sales, showing customers’ preference for high-value items.
+- **Channel Preference:** Customers tend to purchase more through certain platforms, suggesting where marketing investment can be optimized.
+- **Revenue Concentration:** A small set of categories contributes to a large portion of total revenue, following the 80/20 rule.
+- **Growth Opportunities:** Regions with lower sales share (like South) present a chance for expansion through localized offers.
+- **Seasonality Insight:** Sales peaks align with festive or holiday months, hinting at the importance of targeted promotions during these periods.
+- **Category Cross-Selling Potential:** Beauty product buyers often overlap with Fashion buyers, presenting cross-sell opportunities.
 
   ## Final Conclusion:
   To boost overall sales and profitability, a strategic marketing approach should focus on sustaining strong performance in the West, Central, East, and North regions, while leveraging high-demand months like March, February, and January through seasonal promotions. Emphasis should be placed on top-selling products such as curtains, face creams, and jeans, with customized offers across both online and offline channels. Additionally, improving delivery efficiency and reducing returns can further enhance customer satisfaction and retention.
