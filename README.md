@@ -1,7 +1,6 @@
 # Data-Analytics-Excel-Dashboard (Interactive Dashboard creation using MS Excel)
 ## Project Objective
-This project is an interactive Excel Sales Dashboard built using Pivot Tables, Slicers, and Timelines to analyze sales performance across multiple channels.
-It enables quick filtering and visualization of key metrics for better business decision-making.
+To design and develop an interactive Excel Sales Dashboard that provides real-time insights into sales performance by leveraging Pivot Tables, Slicers, Timelines, and Power Query. The dashboard aims to streamline data analysis, enable dynamic filtering, and present key metrics visually to support data-driven business decisions.
 
 ## Dataset used
 - <a href="https://github.com/KamalNayanTiwary/Data-Analytics-Excel-Dashboard/blob/main/Data-Analytics-Excel-Dashboard1.xlsx">Dataset<a/>
