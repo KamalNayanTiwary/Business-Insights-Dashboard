@@ -12,8 +12,12 @@ In a competitive retail environment, timely and accurate sales analysis is cruci
 - Highlight underperforming segments requiring pricing or promotional strategies
 - Enable quick data-driven decisions through dynamic filtering and visualization
 
+  ---
+
 ## Dataset used
 - <a href="https://github.com/KamalNayanTiwary/Data-Analytics-Excel-Dashboard/blob/main/Data-Analytics-Excel-Dashboard1.xlsx">Dataset<a/>
+
+---
 
 ## Questions (KPIs)
 - Which gender buys more products?
@@ -29,6 +33,8 @@ In a competitive retail environment, timely and accurate sales analysis is cruci
 
 - Dashboard Interaction <a href="https://github.com/KamalNayanTiwary/Data-Analytics-Excel-Dashboard/blob/main/Overview.png">View Dashboard</a>
 
+---
+
 ## Process
 - **Data Import & Cleaning:** Used Power Query to import sales data from multiple sources and perform cleaning tasks like removing duplicates, handling missing values, and standardizing formats.
 - **Data Transformation:** Applied transformations in Power Query (e.g., column splitting, merging, filtering) to prepare the dataset for analysis.
@@ -36,9 +42,13 @@ In a competitive retail environment, timely and accurate sales analysis is cruci
 - **Visualization Setup:** Created Pivot Tables and Pivot Charts linked with Slicers and Timelines for dynamic filtering.
 - **Dashboard Design:** Combined visuals, KPIs, and interactive filters into a single, user-friendly dashboard layout.
 
+---
+
 ## Dashboard
 
 ![Overview](https://github.com/KamalNayanTiwary/Data-Analytics-Excel-Dashboard/blob/main/Overview.png)
+
+---
 
 ## Project Insights
 - **Top Product Category:** Beauty and Electronics drive the highest revenue, making them the key focus for marketing.
@@ -51,6 +61,8 @@ In a competitive retail environment, timely and accurate sales analysis is cruci
 - **Growth Opportunities:** Regions with lower sales share (like South) present a chance for expansion through localized offers.
 - **Seasonality Insight:** Sales peaks align with festive or holiday months, hinting at the importance of targeted promotions during these periods.
 - **Category Cross-Selling Potential:** Beauty product buyers often overlap with Fashion buyers, presenting cross-sell opportunities.
+
+---
 
   ## Final Conclusion:
 To boost sales performance, the business should focus marketing efforts on **top-performing regions (West and Central)** and **high-revenue categories (Beauty, Electronics)**, while addressing weaker markets like the South region. Leveraging **Power Query** for automated data refresh and cleaning ensures the dashboard remains updated with minimal manual work, enabling faster and more accurate decision-making.
