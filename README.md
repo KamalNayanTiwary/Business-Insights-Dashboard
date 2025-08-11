@@ -73,8 +73,6 @@ In a competitive retail environment, timely and accurate sales analysis is cruci
 
 ---
 
----
-
 ## Author & Contact
 **Kamal Nayan Tiwary**  
 Data Analyst  
