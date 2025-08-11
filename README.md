@@ -18,4 +18,4 @@ It enables quick filtering and visualization of key metrics for better business 
 - Calculate the percentage of total orders delivered successfully.
 - Compare profit margins across product categories.
 
-- Dashboard Interaction <a href="">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/KamalNayanTiwary/Data-Analytics-Excel-Dashboard/blob/main/Overview.png">View Dashboard</a>
