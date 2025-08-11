@@ -31,7 +31,7 @@ In a competitive retail environment, timely and accurate sales analysis is cruci
 - Which sales channels show the highest growth potential?
 - How does the delivery success rate vary by state or region?
 
-- Dashboard Interaction <a href="https://github.com/KamalNayanTiwary/Data-Analytics-Excel-Dashboard/blob/main/Overview.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/KamalNayanTiwary/Data-Analytics-Dashboard/blob/main/image.png">View Dashboard</a>
 
 ---
 
@@ -46,7 +46,7 @@ In a competitive retail environment, timely and accurate sales analysis is cruci
 
 ## Dashboard
 
-![Overview](https://github.com/KamalNayanTiwary/Data-Analytics-Excel-Dashboard/blob/main/Overview.png)
+![Overview](https://github.com/KamalNayanTiwary/Data-Analytics-Dashboard/blob/main/image.png)
 
 ---
 
