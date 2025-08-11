@@ -1,4 +1,4 @@
-# Data-Analytics-Excel-Dashboard (Interactive Dashboard)
+# Data-Analytics-Dashboard (Interactive Dashboard)
 ## Project Objective
 To design and develop an interactive Excel Sales Dashboard that provides real-time insights into sales performance by leveraging Pivot Tables, Slicers, Timelines, and Power Query. The dashboard aims to streamline data analysis, enable dynamic filtering, and present key metrics visually to support data-driven business decisions.
 
