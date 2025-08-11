@@ -20,12 +20,11 @@ To design and develop an interactive Excel Sales Dashboard that provides real-ti
 - Dashboard Interaction <a href="https://github.com/KamalNayanTiwary/Data-Analytics-Excel-Dashboard/blob/main/Overview.png">View Dashboard</a>
 
 ## Process
-- Verified dataset for any missing values, duplicates, or anomalies and corrected them.
-- Ensured data consistency and cleanliness by standardizing data types, date formats (DD-MM-YYYY), and value categories.
-- Created pivot tables to address each KPI and question.
-- Designed interactive charts to visualize insights effectively.
-- Combined all pivot tables and charts into a single dashboard layout.
-- Applied slicers and timeline filters to make the dashboard fully dynamic and interactive.
+- Data Import & Cleaning: Used Power Query to import sales data from multiple sources and perform cleaning tasks like removing duplicates, handling missing values, and standardizing formats.
+- Data Transformation: Applied transformations in Power Query (e.g., column splitting, merging, filtering) to prepare the dataset for analysis.
+- Data Model Creation: Loaded the cleaned dataset into Excel’s data model for efficient processing.
+- Visualization Setup: Created Pivot Tables and Pivot Charts linked with Slicers and Timelines for dynamic filtering.
+- Dashboard Design: Combined visuals, KPIs, and interactive filters into a single, user-friendly dashboard layout.
 
 ## Dashboard
 
