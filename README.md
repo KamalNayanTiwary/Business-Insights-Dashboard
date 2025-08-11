@@ -28,7 +28,9 @@ It enables quick filtering and visualization of key metrics for better business 
 - Combined all pivot tables and charts into a single dashboard layout.
 - Applied slicers and timeline filters to make the dashboard fully dynamic and interactive.
 
+## Dashboard
 
+![Overview] 
 
 
 
