@@ -15,7 +15,7 @@ In a competitive retail environment, timely and accurate sales analysis is cruci
 ---
 
 ## Dataset used
-- <a href="https://github.com/KamalNayanTiwary/Data-Analytics-Excel-Dashboard/blob/main/Data-Analytics-Excel-Dashboard1.xlsx">Dataset<a/>
+- <a href="https://github.com/KamalNayanTiwary/Data-Analytics-Dashboard/blob/main/Data-Analytics-Dashboard.xlsx">Dataset<a/>
 
 ---
 
