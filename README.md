@@ -12,7 +12,7 @@ In a competitive retail environment, timely and accurate sales analysis is cruci
 - Highlight underperforming segments requiring pricing or promotional strategies
 - Enable quick data-driven decisions through dynamic filtering and visualization
 
-  ---
+---
 
 ## Dataset used
 - <a href="https://github.com/KamalNayanTiwary/Data-Analytics-Excel-Dashboard/blob/main/Data-Analytics-Excel-Dashboard1.xlsx">Dataset<a/>
