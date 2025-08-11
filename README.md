@@ -2,6 +2,14 @@
 ## Project Objective
 To design and develop an interactive Excel Sales Dashboard that provides real-time insights into sales performance by leveraging Pivot Tables, Slicers, Timelines, and Power Query. The dashboard aims to streamline data analysis, enable dynamic filtering, and present key metrics visually to support data-driven business decisions.
 
+## Business Problem
+In a competitive retail environment, timely and accurate sales analysis is crucial for maximizing revenue and identifying growth opportunities. This dashboard addresses the need to:
+- Track sales trends over time to spot seasonal demand patterns
+- Identify top-performing product categories and subcategories
+- Compare regional and city-level performance to allocate resources effectively
+- Highlight underperforming segments requiring pricing or promotional strategies
+- Enable quick data-driven decisions through dynamic filtering and visualization
+
 ## Dataset used
 - <a href="https://github.com/KamalNayanTiwary/Data-Analytics-Excel-Dashboard/blob/main/Data-Analytics-Excel-Dashboard1.xlsx">Dataset<a/>
 
