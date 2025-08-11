@@ -43,7 +43,7 @@ To design and develop an interactive Excel Sales Dashboard that provides real-ti
 - **Category Cross-Selling Potential:** Beauty product buyers often overlap with Fashion buyers, presenting cross-sell opportunities.
 
   ## Final Conclusion:
-  To boost overall sales and profitability, a strategic marketing approach should focus on sustaining strong performance in the West, Central, East, and North regions, while leveraging high-demand months like March, February, and January through seasonal promotions. Emphasis should be placed on top-selling products such as curtains, face creams, and jeans, with customized offers across both online and offline channels. Additionally, improving delivery efficiency and reducing returns can further enhance customer satisfaction and retention.
+To boost sales performance, the business should focus marketing efforts on **top-performing regions (West and Central)** and **high-revenue categories (Beauty, Electronics)**, while addressing weaker markets like the South region. Leveraging **Power Query** for automated data refresh and cleaning ensures the dashboard remains updated with minimal manual work, enabling faster and more accurate decision-making.
 
 
 
