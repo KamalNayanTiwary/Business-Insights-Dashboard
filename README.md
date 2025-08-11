@@ -19,3 +19,16 @@ It enables quick filtering and visualization of key metrics for better business 
 - Compare profit margins across product categories.
 
 - Dashboard Interaction <a href="https://github.com/KamalNayanTiwary/Data-Analytics-Excel-Dashboard/blob/main/Overview.png">View Dashboard</a>
+
+## Process
+- Verified dataset for any missing values, duplicates, or anomalies and corrected them.
+- Ensured data consistency and cleanliness by standardizing data types, date formats (DD-MM-YYYY), and value categories.
+- Created pivot tables to address each KPI and question.
+- Designed interactive charts to visualize insights effectively.
+- Combined all pivot tables and charts into a single dashboard layout.
+- Applied slicers and timeline filters to make the dashboard fully dynamic and interactive.
+
+
+
+
+
