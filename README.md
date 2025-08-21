@@ -71,6 +71,11 @@ In a competitive retail environment, timely and accurate sales analysis is cruci
 - Expand successful city markets such as **Ahmedabad** and **Bangalore** with targeted campaigns.
 - Introduce bundle deals for high-demand sub-categories like **Mobiles** and **Laptops** to increase average order value.
 
+  ## 📊 Live Business Insights Dashboard
+I created an interactive Excel dashboard to analyze and visualize business insights.  
+You can explore it live here: [View Dashboard](https://1drv.ms/x/c/2935c051a8231c73/EQbJq5gFjblHvuxa1wpnYQgBKyY58KksqqE5IAxYyzXnMA?e=nK0ssF)
+
+
 ---
 
 ## Author & Contact
