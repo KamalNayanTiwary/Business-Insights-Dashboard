@@ -80,8 +80,8 @@ You can explore it live here: [View Dashboard](https://1drv.ms/x/c/2935c051a8231
 
 ## Author & Contact
 **Kamal Nayan Tiwary**  
-Data Analyst  
-📧 kamalnayantiwary73@gmail.com  
+**Data Analyst** 
+📧 **kamalnayantiwary73@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/kamal-nayan-tiwary-2022-2026-/)  
 
 
