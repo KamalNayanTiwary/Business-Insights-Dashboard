@@ -1,6 +1,12 @@
 # Business-Insights-Dashboard
 ## Project Objective
-To design and develop an interactive Excel Sales Dashboard that provides real-time insights into sales performance by leveraging Pivot Tables, Slicers, Timelines, and Power Query. The dashboard aims to streamline data analysis, enable dynamic filtering, and present key metrics visually to support data-driven business decisions.
+To design and develop an interactive **Excel Sales Dashboard** that provides real-time insights into sales performance by leveraging **Pivot Tables, Slicers, Timelines, and Power Query.** The dashboard aims to streamline data analysis, enable dynamic filtering, and present key metrics visually to support data-driven business decisions.
+
+---
+
+## 📊 Live Business Insights Dashboard
+I created an interactive Excel dashboard to analyze and visualize business insights.  
+You can explore it live here: [View Dashboard](https://1drv.ms/x/c/2935c051a8231c73/EQbJq5gFjblHvuxa1wpnYQgBKyY58KksqqE5IAxYyzXnMA?e=nK0ssF)
 
 ---
 
@@ -70,11 +76,6 @@ In a competitive retail environment, timely and accurate sales analysis is cruci
 - Monitor **seasonal sales peaks** and align inventory planning accordingly.
 - Expand successful city markets such as **Ahmedabad** and **Bangalore** with targeted campaigns.
 - Introduce bundle deals for high-demand sub-categories like **Mobiles** and **Laptops** to increase average order value.
-
-## 📊 Live Business Insights Dashboard
-I created an interactive Excel dashboard to analyze and visualize business insights.  
-You can explore it live here: [View Dashboard](https://1drv.ms/x/c/2935c051a8231c73/EQbJq5gFjblHvuxa1wpnYQgBKyY58KksqqE5IAxYyzXnMA?e=nK0ssF)
-
 
 ---
 
